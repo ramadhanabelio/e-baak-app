@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E-BAAK</string>
+    <string name="judul_informasi">Judul Informasi</string>
+    <string name="description">Isi Informasi</string>
+</resources>
